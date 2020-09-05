@@ -6,3 +6,4 @@ class Cat {
     this.sex = sex;
   }
 }
+
