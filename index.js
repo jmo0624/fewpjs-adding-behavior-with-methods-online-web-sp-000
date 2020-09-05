@@ -6,7 +6,7 @@ class Cat {
     this.sex = sex;
   }
   speak() {
-    return
+    return 'this.name'
   }
 }
 
